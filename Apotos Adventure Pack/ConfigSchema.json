@@ -21,14 +21,6 @@
           "DefaultValue": "Configuration\\dummy.ini"
         },
         {
-          "Name": "Reimagined",
-          "DisplayName": "Reimagined",
-          "Type": "Reimagined",
-          "MinValue": null,
-          "MaxValue": null,
-          "DefaultValue": "Configuration\\dummy.ini"
-        },
-        {
           "Name": "NightHub",
           "DisplayName": "Hub World Time of Day",
           "Type": "NightHub",
@@ -69,22 +61,6 @@
         "Value": "Configuration\\dummy.ini",
         "Description": [
           "Disable Unleashed Physics, default Generations physics will be used in all stages"
-        ]
-      }
-    ],
-    "Reimagined": [
-      {
-        "DisplayName": "Enabled",
-        "Value": "Reimagined\\unleashed_reimagined.ini",
-        "Description": [
-          "Enable Sonic Unleashed: Reimagined"
-        ]
-      },
-      {
-        "DisplayName": "Disabled",
-        "Value": "Configuration\\dummy.ini",
-        "Description": [
-          "Disable Sonic Unleashed: Reimagined"
         ]
       }
     ],
