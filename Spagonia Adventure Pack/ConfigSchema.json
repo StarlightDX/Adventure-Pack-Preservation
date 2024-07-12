@@ -1,0 +1,85 @@
+{
+  "Groups": [
+    {
+      "Name": "CPKs",
+      "DisplayName": "Options",
+      "Elements": [
+        {
+          "Name": "Ui",
+          "DisplayName": "Jump Selector Button Icons",
+          "Type": "Ui",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "Configuration\\config_gui_xbox.ini"
+        },
+        {
+          "Name": "Physics",
+          "DisplayName": "Unleashed Physics",
+          "Type": "Physics",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "Configuration\\dummy.ini"
+        },
+        {
+          "Name": "NightHub",
+          "DisplayName": "Hub World Time of Day",
+          "Type": "NightHub",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "Configuration\\dummy.ini"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "Ui": [
+      {
+        "DisplayName": "PlayStation 3",
+        "Value": "Configuration\\config_gui_ps3.ini",
+        "Description": [
+          "PlayStation 3 button prompts"
+        ]
+      },
+      {
+        "DisplayName": "XBOX 360",
+        "Value": "Configuration\\config_gui_xbox.ini",
+        "Description": [
+          "Xbox 360 button prompts"
+        ]
+      }
+    ],
+    "Physics": [
+      {
+        "DisplayName": "Enabled",
+        "Value": "Configuration\\config_physics.ini",
+        "Description": [
+          "Enable Unleashed Physics"
+        ]
+      },
+      {
+        "DisplayName": "Disabled",
+        "Value": "Configuration\\dummy.ini",
+        "Description": [
+          "Disable Unleashed Physics, default Generations physics will be used in all stages"
+        ]
+      }
+    ],
+    "NightHub": [
+      {
+        "DisplayName": "Day Time",
+        "Value": "Configuration\\dummy.ini",
+        "Description": [
+          "Switch the hub world to day"
+        ]
+      },
+      {
+        "DisplayName": "Night Time",
+        "Value": "Configuration\\config_nighthub.ini",
+        "Description": [
+          "Switch the hub world to night"
+        ]
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
+}

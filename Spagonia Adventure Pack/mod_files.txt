@@ -1,1 +1,11 @@
 add mod.ini
+add ConfigSchema.json
+add Configuration/Physics/disk/bb3/#Sonic.ar.00
+add Configuration/Physics/disk/bb3/#Sonic.arl
+add Configuration/config_physics.ini
+delete Configuration/config_physicsg.ini
+delete Configuration/config_physicsu.ini
+delete Configuration/Physics/#UnleashedSonic.ar.00
+delete Configuration/Physics/#UnleashedSonic.arl
+delete Configuration/Physics/#GenerationsSonic.ar.00
+delete Configuration/Physics/#GenerationsSonic.arl
