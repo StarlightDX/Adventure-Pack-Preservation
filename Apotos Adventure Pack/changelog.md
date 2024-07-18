@@ -1,3 +1,8 @@
+## Apotos Adventure Pack 4.1.3
+
+- Fixed Jump Selector not working for those using PlayStation controllers.
+- Fixed Jump Selector showing wrong prompts in all acts using it.
+
 ## Apotos Adventure Pack 4.1.2
 
 - Another fix to the same problem mentioned in 4.1.1, for default Generations physics.
