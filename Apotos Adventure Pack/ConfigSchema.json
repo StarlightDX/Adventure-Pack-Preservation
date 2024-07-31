@@ -46,6 +46,13 @@
         "Description": [
           "Xbox 360 button prompts"
         ]
+      },
+      {
+        "DisplayName": "Switch Pro",
+        "Value": "Configuration\\config_gui_switch.ini",
+        "Description": [
+          "Switch Pro button prompts"
+        ]
       }
     ],
     "Physics": [

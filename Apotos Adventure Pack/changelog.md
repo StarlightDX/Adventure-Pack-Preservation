@@ -1,3 +1,8 @@
+## Apotos Adventure Pack 4.1.4
+
+- Fixed cameras being delayed with Dash Panels in Act 1-2 & Act 4.
+- Jump Selector now supports Nintendo Switch controllers.
+
 ## Apotos Adventure Pack 4.1.3
 
 - Fixed Jump Selector not working for those using PlayStation controllers.

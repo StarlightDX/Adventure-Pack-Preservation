@@ -2,6 +2,7 @@ add mod.ini
 add Configuration/Physics/disk/bb3/#Sonic.ar.00
 add Configuration/Physics/disk/bb3/#Sonic.arl
 add Configuration/config_gui_ps3.ini
+add Configuration/config_gui_switch.ini
 add Configuration/GUI/XBOX360/disk/bb3/JumpSelector.ar.00
 add Configuration/GUI/XBOX360/disk/bb3/JumpSelector.arl
 add Configuration/GUI/XBOX360/disk/bb3/JumpSelectorBTN.ar.00
@@ -10,6 +11,10 @@ add Configuration/GUI/PlayStation3/disk/bb3/JumpSelector.ar.00
 add Configuration/GUI/PlayStation3/disk/bb3/JumpSelector.arl
 add Configuration/GUI/PlayStation3/disk/bb3/JumpSelectorBTN.ar.00
 add Configuration/GUI/PlayStation3/disk/bb3/JumpSelectorBTN.arl
+add Configuration/GUI/Switch/disk/bb3/JumpSelector.ar.00
+add Configuration/GUI/Switch/disk/bb3/JumpSelector.arl
+add Configuration/GUI/Switch/disk/bb3/JumpSelectorBTN.ar.00
+add Configuration/GUI/Switch/disk/bb3/JumpSelectorBTN.arl
 add Adventure Pack/disk/bb/#cpz200.ar.00
 add Adventure Pack/disk/bb/#cpz200.arl
 add Adventure Pack/disk/bb/#cte200.ar.00
