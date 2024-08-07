@@ -1,4 +1,5 @@
 add mod.ini
+add ConfigSchema.json
 add Configuration/Physics/disk/bb3/#Sonic.ar.00
 add Configuration/Physics/disk/bb3/#Sonic.arl
 add Configuration/config_gui_ps3.ini

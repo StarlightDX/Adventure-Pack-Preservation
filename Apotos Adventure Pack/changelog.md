@@ -1,3 +1,7 @@
+## Apotos Adventure Pack 4.1.5
+
+- Fixed the option for Switch buttons for Jump Selector not showing.
+
 ## Apotos Adventure Pack 4.1.4
 
 - Fixed cameras being delayed with Dash Panels in Act 1-2 & Act 4.
