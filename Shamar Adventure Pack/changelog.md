@@ -1,3 +1,3 @@
-## 2.0.2
-- Added update server.
-- Made use of CPK advanced mode.
+## Shamar Adventure Pack 2.2.1
+
+- Fixed the hub world crashing immediately upon loading with new players.
