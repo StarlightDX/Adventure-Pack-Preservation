@@ -4,7 +4,7 @@ add Configuration/Physics/disk/bb3/#Sonic.ar.00
 add Configuration/Physics/disk/bb3/#Sonic.arl
 add Configuration/config_gui_ps3.ini
 add Configuration/config_gui_switch.ini
-add Configuration/config_gui_qte.ini
+add Configuration/config_qte.ini
 add Configuration/GUI/XBOX360/disk/bb3/JumpSelector.ar.00
 add Configuration/GUI/XBOX360/disk/bb3/JumpSelector.arl
 add Configuration/GUI/XBOX360/disk/bb3/JumpSelectorBTN.ar.00
