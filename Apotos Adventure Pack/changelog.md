@@ -1,3 +1,10 @@
+## Apotos Adventure Pack 4.2.0
+
+- QTE Restoration is available and is completely optional and toggleable.
+- Final fix for the infamous Act 2-2 crash.
+
+Please note that while the mod will still ask for the QTE Restoration as one of its dependencies, the mechanic itself is still completely optional.
+
 ## Apotos Adventure Pack 4.1.5
 
 - Fixed the option for Switch buttons for Jump Selector not showing.
