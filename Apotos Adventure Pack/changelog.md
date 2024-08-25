@@ -1,3 +1,7 @@
+## Apotos Adventure Pack 4.2.1
+
+- Missing file for QTE Restoration added to the update server.
+
 ## Apotos Adventure Pack 4.2.0
 
 - QTE Restoration is available and is completely optional and toggleable.
