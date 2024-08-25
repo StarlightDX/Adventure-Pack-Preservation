@@ -1,3 +1,13 @@
+add ConfigSchema.json
 add mod.ini
+add Configuration/config_qte.ini
 add Adventure Pack/disk/bb2/pam000.ar.00
 add Adventure Pack/disk/bb2/pam000.arl
+add Configuration/QTE/disk/bb/#ghz201.ar.00
+add Configuration/QTE/disk/bb/#ghz201.arl
+add Configuration/QTE/disk/bb/#ssz200.ar.00
+add Configuration/QTE/disk/bb/#ssz200.arl
+add Configuration/QTE/disk/bb2/#ssh200.ar.00
+add Configuration/QTE/disk/bb2/#ssh200.arl
+add Configuration/QTE/disk/bb2/#pla200.ar.00
+add Configuration/QTE/disk/bb2/#pla200.arl
