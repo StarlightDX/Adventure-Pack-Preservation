@@ -1,4 +1,4 @@
-## Spagonia Adventure Pack 2.0.3
+## Spagonia Adventure Pack 2.1.0
 
 - QTE Restoration is available and is completely optional and toggleable.
 
