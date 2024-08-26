@@ -1,5 +1,11 @@
 ## Spagonia Adventure Pack 2.0.3
 
+- QTE Restoration is available and is completely optional and toggleable.
+
+Please note that while the mod will still ask for the QTE Restoration as one of its dependencies, the mechanic itself is still completely optional.
+
+## Spagonia Adventure Pack 2.0.3
+
 - Jump Selector now supports Nintendo Switch controllers.
 
 ## Spagonia Adventure Pack 2.0.2

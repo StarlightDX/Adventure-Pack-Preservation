@@ -5,6 +5,14 @@
       "DisplayName": "Options",
       "Elements": [
         {
+          "Name": "QTE",
+          "DisplayName": "QTE Restoration",
+          "Type": "QTE",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "Configuration\\dummy.ini"
+        },
+        {
           "Name": "Ui",
           "DisplayName": "Jump Selector Button Icons",
           "Type": "Ui",
@@ -18,7 +26,7 @@
           "Type": "Physics",
           "MinValue": null,
           "MaxValue": null,
-          "DefaultValue": "Configuration\\dummy.ini"
+          "DefaultValue": "Configuration\\config_physics.ini"
         },
         {
           "Name": "NightHub",
@@ -32,6 +40,22 @@
     }
   ],
   "Enums": {
+    "QTE": [
+      {
+        "DisplayName": "Enabled",
+        "Value": "Configuration\\config_qte.ini",
+        "Description": [
+          "Enable the QTE restoration trick ramps & reaction plates"
+        ]
+      },
+      {
+        "DisplayName": "Disabled",
+        "Value": "Configuration\\dummy.ini",
+        "Description": [
+          "Disable the QTE restoration trick ramps & reaction plates"
+        ]
+      }
+    ],
     "Ui": [
       {
         "DisplayName": "PlayStation 3",

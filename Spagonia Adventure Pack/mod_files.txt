@@ -4,8 +4,17 @@ add Configuration/Physics/disk/bb3/#Sonic.ar.00
 add Configuration/Physics/disk/bb3/#Sonic.arl
 add Configuration/config_physics.ini
 add Configuration/config_gui_switch.ini
+add Configuration/config_qte.ini
 add Configuration/GUI/Switch/disk/bb3/JumpSelectorBTN.ar.00
 add Configuration/GUI/Switch/disk/bb3/JumpSelectorBTN.arl
+add Configuration/QTE/disk/bb/#ghz200.ar.00
+add Configuration/QTE/disk/bb/#ghz200.arl
+add Configuration/QTE/disk/bb/#ssz200.ar.00
+add Configuration/QTE/disk/bb/#ssz200.arl
+add Configuration/QTE/disk/bb2/#ssh200.ar.00
+add Configuration/QTE/disk/bb2/#ssh200.arl
+add Configuration/QTE/disk/bb2/#pla200.ar.00
+add Configuration/QTE/disk/bb2/#pla200.arl
 add Adventure Pack/disk/bb/#cpz200.ar.00
 add Adventure Pack/disk/bb/#cpz200.arl
 add Adventure Pack/disk/bb/#cte200.ar.00
