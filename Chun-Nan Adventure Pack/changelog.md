@@ -1,3 +1,8 @@
+## Chun-Nan Adventure Pack 1.6.1
+
+- Added a missing spring in the version of Act 5 with QTE Restoration.
+- Fixed a spring not launching Sonic to the intended Dash Ring in the non-QTE version of Act 5.
+
 ## Chun-Nan Adventure Pack 1.6.0
 
 - QTE Restoration is available and is completely optional and toggleable.
